@@ -8,4 +8,6 @@
 
 require_once 'core/init.php';
 
-DB::getInstance();
+$user = DB::getInstance()->update('users', 1, array(
+    'username' => 'marthijn'
+));

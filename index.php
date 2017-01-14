@@ -8,4 +8,4 @@
 
 require_once 'core/init.php';
 
-echo Config::get('mysql/hodst');
+DB::getInstance();

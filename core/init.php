@@ -10,10 +10,10 @@ session_start();
 
 $GLOBALS['config'] = array(
     'mysql' => array(
-        'host' => '127.0.0.1',
-        'username' => 'root',
-        'password' => '',
-        'db' => 'loginsystemdb'
+        'host' => 'mysql1090int.cp.hostnet.nl',
+        'username' => 'u272988_root',
+        'password' => 'Sopwith123',
+        'db' => 'db272988_loginsystem'
     ),
     'remember' => array(
         'cookie_name' => 'hash',

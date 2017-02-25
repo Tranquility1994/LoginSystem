@@ -1,7 +1,1 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Marthijn
- * Date: 14-1-2017
- * Time: 16:48
- */
+<h1>Page Not Found, just go back and try an another page.</h1>
